@@ -1,0 +1,11 @@
+[header.title]
+  logo = ""
+  name = "Blog of WDM"
+  typeit = false
+
+[home.profile]
+  title = ""
+  subtitle = ""
+
+[app]
+  noFavicon = true

@@ -1,0 +1,36 @@
+[[main]]
+  name = 'C/C++'
+  identifier = 'cpp'
+  url = '/cpp/'
+  weight = 1
+
+[[main]]
+  name = 'Golang'
+  identifier = 'golang'
+  url = '/golang/'
+  weight = 2
+  
+[[main]]
+  name = 'Java'
+  identifier = 'java'
+  url = '/java/'
+  weight = 3
+  
+[[main]]
+  name = 'Linux'
+  identifier = 'linux'
+  url = '/linux/'
+  weight = 10
+  
+[[main]]
+  name = 'FFmpeg'
+  identifier = 'ffmpeg'
+  url = '/ffmpeg/'
+  weight = 20
+  
+[[main]]
+  name = 'WebRTC'
+  identifier = 'webrtc'
+  url = '/webrtc/'
+  weight = 21
+
