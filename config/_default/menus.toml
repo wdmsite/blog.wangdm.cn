@@ -23,14 +23,20 @@
   weight = 10
   
 [[main]]
+  name = 'Media'
+  identifier = 'media'
+  url = '/media/'
+  weight = 20
+  
+[[main]]
   name = 'FFmpeg'
   identifier = 'ffmpeg'
   url = '/ffmpeg/'
-  weight = 20
+  weight = 21
   
 [[main]]
   name = 'WebRTC'
   identifier = 'webrtc'
   url = '/webrtc/'
-  weight = 21
+  weight = 22
 
