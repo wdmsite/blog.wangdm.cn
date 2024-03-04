@@ -1,5 +1,5 @@
 baseURL = 'https://blog.wangdm.cn/'
 languageCode = 'en-us'
-title = 'Blog'
+title = '博客'
 theme = 'LoveIt'
 #theme = 'ananke'
