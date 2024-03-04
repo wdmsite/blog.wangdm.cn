@@ -3,17 +3,17 @@
   identifier = 'cpp'
   url = '/cpp/'
   weight = 1
+  
+[[main]]
+  name = 'Rust'
+  identifier = 'rust'
+  url = '/rust/'
+  weight = 2
 
 [[main]]
   name = 'Golang'
   identifier = 'golang'
   url = '/golang/'
-  weight = 2
-  
-[[main]]
-  name = 'Java'
-  identifier = 'java'
-  url = '/java/'
   weight = 3
   
 [[main]]
